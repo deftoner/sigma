@@ -64,6 +64,7 @@ https://admx.help/HKLM/SOFTWARE/Policies/Microsoft/Windows%20NT/Terminal%20Servi
 https://admx.help/HKLM/Software/Policies/Mozilla/Firefox/DNSOverHTTPS
 https://adsecurity.org/?p=1714
 https://adsecurity.org/?p=1772
+https://adsecurity.org/?p=1785
 https://adsecurity.org/?p=2053
 https://adsecurity.org/?p=2277
 https://adsecurity.org/?p=2288
@@ -266,6 +267,7 @@ https://blog.talosintelligence.com/gophish-powerrat-dcrat/
 https://blog.talosintelligence.com/ipfs-abuse/
 https://blog.talosintelligence.com/modernloader-delivers-multiple-stealers-cryptominers-and-rats/
 https://blog.talosintelligence.com/uat-5647-romcom/
+https://blog.talosintelligence.com/understanding-the-phobos-affiliate-structure/
 https://blog.thecybersecuritytutor.com/Exeuction-AWL-Bypass-Remote-exe-LOLBin/
 https://blog.thickmints.dev/mintsights/detecting-rogue-rdp/
 https://blog.trendmicro.com/trendlabs-security-intelligence/attack-using-windows-installer-msiexec-exe-leads-lokibot/
@@ -324,6 +326,7 @@ https://bunnyinside.com/?term=f71e8cb9c76a
 https://businessinsights.bitdefender.com/deep-dive-into-a-backdoordiplomacy-attack-a-study-of-an-attackers-toolkit
 https://car.mitre.org/wiki/CAR-2013-05-002
 https://car.mitre.org/wiki/CAR-2016-04-005
+https://catalyst.prodaft.com/public/report/inside-the-latest-espionage-campaign-of-nebulous-mantis
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/service_registry_permissions_weakness_check/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/task_scheduling/
 https://chromeenterprise.google/policies/?policy=DnsOverHttpsMode
@@ -351,6 +354,7 @@ https://code.visualstudio.com/docs/remote/tunnels
 https://codewhitesec.blogspot.com/2018/07/lethalhta.html
 https://codewhitesec.blogspot.com/2022/09/attacks-on-sysmon-revisited-sysmonente.html
 https://commandk.dev/blog/guide-to-audit-k8s-secrets-for-compliance/
+https://communities.vmware.com/t5/VMware-Workstation-Pro/VMCI-driver-issues/td-p/2866060
 https://community.broadcom.com/symantecenterprise/communities/community-home/digestviewer/viewthread?MessageKey=6ce94b67-74e1-4333-b16f-000b7fd874f0&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=digestviewer
 https://community.f5.com/t5/technical-forum/icontrolrest-11-5-execute-bash-command/td-p/203029
 https://community.f5.com/t5/technical-forum/running-bash-commands-via-rest-api/td-p/272516
@@ -1588,6 +1592,7 @@ https://github.com/samratashok/nishang/blob/414ee1104526d7057f9adaeee196d91ae447
 https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES/blob/44fbe85f72ee91582876b49678f9a26292a155fb/Command%20and%20Control/DE_RDP_Tunnel_5156.evtx
 https://github.com/search?q=CVE-2021-36934
 https://github.com/search?q=CVE-2021-43798
+https://github.com/search?q=devcon+disable+VMWVMCIHOSTDEV
 https://github.com/search?q=repo%3AHackplayers%2Fevil-winrm++shell.run%28&type=code
 https://github.com/SecureAuthCorp/impacket/blob/7d2991d78836b376452ca58b3d14daa61b67cb40/impacket/examples/secretsdump.py#L2405
 https://github.com/SecureAuthCorp/impacket/blob/8b1a99f7c715702eafe3f24851817bb64721b156/examples/atexec.py
@@ -1624,6 +1629,7 @@ https://github.com/staaldraad/go-ntlm/blob/cd032d41aa8ce5751c07cb7945400c0f5c81e
 https://github.com/stamparm/maltrail/blob/3ea70459b9559134449423c0a7d8b965ac5c40ea/trails/static/suspicious/crypto_mining.txt
 https://github.com/surya-dev-singh/AmsiBypass-OpenSession
 https://github.com/swagkarna/Defeat-Defender-V1.2.0
+https://github.com/swagkarna/Defeat-Defender-V1.2.0/tree/ae4059c4276da6f6303b8f53cdff085ecae88a91
 https://github.com/SwiftOnSecurity/sysmon-config/pull/92/files
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/c95a0a1a2855dc0cd7f7327614545fe30482a636/Upload%20Insecure%20Files/README.md
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/d9921e370b7c668ee8cc42d09b1932c1b98fa9dc/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
@@ -1942,6 +1948,7 @@ https://learn.microsoft.com/en-us/entra/identity/monitoring-health/reference-aud
 https://learn.microsoft.com/en-us/graph/api/resources/riskdetection?view=graph-rest-1.0
 https://learn.microsoft.com/en-us/iis/configuration/system.applicationhost/sites/sitedefaults/logfile/
 https://learn.microsoft.com/en-us/iis/get-started/introduction-to-iis/iis-modules-overview
+https://learn.microsoft.com/en-us/iis/manage/provisioning-and-managing-iis/managing-iis-log-file-storage
 https://learn.microsoft.com/en-us/microsoft-365/compliance/alert-policies?view=o365-worldwide
 https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide
 https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5001
@@ -2038,6 +2045,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-serve
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj574207(v=ws.11)
 https://learn.microsoft.com/en-us/sql/odbc/odbcconf-exe?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-procoption-transact-sql?view=sql-server-ver16
+https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-database-transact-sql?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-server-audit-transact-sql?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sysinternals/downloads/livekd
 https://learn.microsoft.com/en-us/sysinternals/downloads/procdump
@@ -2555,6 +2563,7 @@ https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/116309e7121bc8b0e66e4166c06f
 https://pypi.org/project/scapy/
 https://ragged-lab.blogspot.com/2020/06/capturing-pcap-driver-installations.html#more
 https://ragged-lab.blogspot.com/2020/07/webshells-automating-reconnaissance.html
+https://rapid7.com/blog/post/2019/02/19/stack-based-buffer-overflow-attacks-what-you-need-to-know/
 https://rastamouse.me/ntlm-relaying-via-cobalt-strike/
 https://raw.githubusercontent.com/huntresslabs/evading-autoruns/master/shady.inf
 https://raw.githubusercontent.com/RiccardoAncarani/talks/master/F-Secure/unorthodox-lateral-movement.pdf
@@ -2596,6 +2605,8 @@ https://redmimicry.com
 https://redmimicry.com/posts/redmimicry-winnti/
 https://redmimicry.com/posts/redmimicry-winnti/#dropper
 https://regex101.com/r/RugQYK/1
+https://reliaquest.com/blog/threat-spotlight-inside-flax-typhoons-arcgis-compromise/
+https://reliaquest.com/blog/threat-spotlight-reliaquest-uncovers-vulnerability-behind-sap-netweaver-compromise/
 https://renenyffenegger.ch/notes/Windows/registry/tree/HKEY_CURRENT_USER/Keyboard-Layout/Preload/index
 https://reqrypt.org/windivert-doc.html
 https://res.armor.com/resources/threat-intelligence/astaroth-banking-trojan/
@@ -2690,6 +2701,7 @@ https://securityintelligence.com/posts/raspberry-robin-worm-dridex-malware/
 https://securityintelligence.com/x-force/x-force-hive0129-targeting-financial-institutions-latam-banking-trojan/
 https://securityjosh.github.io/2020/04/23/Mute-Sysmon.html
 https://securitylab.github.com/research/octopus-scanner-malware-open-source-supply-chain
+https://securitylabs.datadoghq.com/cloud-security-atlas/vulnerabilities/iam-user-without-mfa/
 https://securityliterate.com/how-malware-abuses-the-zone-identifier-to-circumvent-detection-and-analysis/
 https://securityscorecard.com/research/deep-dive-into-alphv-blackcat-ransomware
 https://securityxploded.com/
@@ -3500,6 +3512,7 @@ https://www.bleepingcomputer.com/news/security/fortinet-says-ssl-vpn-pre-auth-rc
 https://www.bleepingcomputer.com/news/security/gootkit-malware-bypasses-windows-defender-by-setting-path-exclusions/
 https://www.bleepingcomputer.com/news/security/hackers-abuse-google-command-and-control-red-team-tool-in-attacks/
 https://www.bleepingcomputer.com/news/security/hackers-are-now-hiding-malware-in-windows-event-logs/
+https://www.bleepingcomputer.com/news/security/hackers-exploit-windows-smartscreen-flaw-to-drop-darkgate-malware/
 https://www.bleepingcomputer.com/news/security/hackers-now-use-microsoft-onenote-attachments-to-spread-malware/
 https://www.bleepingcomputer.com/news/security/hhsgov-open-redirect-used-by-coronavirus-phishing-to-spread-malware/
 https://www.bleepingcomputer.com/news/security/iobit-forums-hacked-to-spread-ransomware-to-its-members/
@@ -3861,6 +3874,7 @@ https://www.mitiga.io/blog/mitiga-security-advisory-abusing-the-ssm-agent-as-a-r
 https://www.myantispyware.com/2020/12/14/how-to-uninstall-onelaunch-browser-removal-guide/
 https://www.n00py.io/2021/05/dumping-plaintext-rdp-credentials-from-svchost-exe/
 https://www.n00py.io/2022/03/manipulating-user-passwords-without-mimikatz/
+https://www.nccgroup.com/us/research-blog/lapsus-recent-techniques-tactics-and-procedures/
 https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/november/turla-png-dropper-is-back/
 https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/cold-steel/NCSC-MAR-Cold-Steel.pdf
 https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/devil-bait/NCSC-MAR-Devil-Bait.pdf
@@ -3960,6 +3974,7 @@ https://www.securonix.com/blog/detecting-microsoft-msdt-dogwalk/
 https://www.securonix.com/blog/seolurker-attack-campaign-uses-seo-poisoning-fake-google-ads-to-install-malware/
 https://www.sekoia.io/en/hunting-and-detecting-cobalt-strike/
 https://www.sentinelone.com/blog/detecting-dsrm-account-misconfigurations/
+https://www.sentinelone.com/blog/exploiting-repos-6-ways-threat-actors-abuse-github-other-devops-platforms
 https://www.sentinelone.com/blog/how-offensive-actors-use-applescript-for-attacking-macos/
 https://www.sentinelone.com/blog/living-off-windows-defender-lockbit-ransomware-sideloads-cobalt-strike-through-microsoft-security-tool
 https://www.sentinelone.com/blog/living-off-windows-defender-lockbit-ransomware-sideloads-cobalt-strike-through-microsoft-security-tool/
