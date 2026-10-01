@@ -172,6 +172,7 @@ https://attackerkb.com/topics/2faW2CxJgQ/cve-2023-4966
 https://attackerkb.com/topics/Bkij5kK1qK/cve-2022-21587/rapid7-analysis
 https://attackerkb.com/topics/SSTk336Tmf/cve-2024-3400/rapid7-analysis
 https://awakesecurity.com/blog/threat-hunting-for-paexec/
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket.html
 https://bad-jubies.github.io/RCE-NOW-WHAT/
 https://badoption.eu/blog/2023/01/31/code_c2.html
 https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
@@ -211,6 +212,7 @@ https://blog.cyble.com/2023/01/12/rhadamanthys-new-stealer-spreading-through-goo
 https://blog.cyble.com/2023/01/18/aurora-a-stealer-using-shapeshifting-tactics/
 https://blog.didierstevens.com/2015/03/16/quickpost-metasploit-user-agent-strings/
 https://blog.dylan.codes/evading-sysmon-and-windows-event-logging/
+https://blog.eclecticiq.com/china-nexus-nation-state-actors-exploit-sap-netweaver-cve-2025-31324-to-target-critical-infrastructures
 https://blog.eclecticiq.com/sandworm-apt-targets-ukrainian-users-with-trojanized-microsoft-kms-activation-tools-in-cyber-espionage-campaigns
 https://blog.emsisoft.com/en/32373/beware-new-wave-of-malware-spreads-via-iso-file-email-attachments/
 https://blog.f-secure.com/analysis-of-lockergoga-ransomware/
@@ -254,6 +256,7 @@ https://blog.router-switch.com/2013/11/show-running-config/
 https://blog.sekoia.io/aurora-a-rising-stealer-flying-under-the-radar
 https://blog.sekoia.io/darkgate-internals/
 https://blog.sekoia.io/lucky-mouse-incident-response-to-detection-engineering/
+https://blog.sekoia.io/scattered-spider-laying-new-eggs/
 https://blog.skyplabs.net/posts/container-detection/
 https://blog.stealthbits.com/how-to-detect-pass-the-hash-attacks/
 https://blog.sygnia.co/kaseya-ransomware-supply-chain-attack
@@ -748,6 +751,7 @@ https://fabian-voith.de/2020/06/25/sysmon-v11-1-reads-alternate-data-streams/
 https://fatrodzianko.com/2020/02/15/dll-side-loading-appverif-exe/
 https://fieldeffect.com/blog/grixba-play-ransomware-impersonates-sentinelone
 https://findingbad.blogspot.de/2017/01/hunting-what-does-it-look-like.html
+https://firecompass.com/crushftp-vulnerability-cve-2025-54309-securing-file-transfer-services/
 https://firewalld.org/documentation/man-pages/firewall-cmd.html
 https://forensafe.com/blogs/typedpaths.html
 https://forensicitguy.github.io/agenttesla-vba-certutil-download/
@@ -1132,6 +1136,7 @@ https://github.com/mitre-attack/bzar#indicators-for-attck-execution
 https://github.com/mitre-attack/bzar#indicators-for-attck-persistence
 https://github.com/mttaggart/OffensiveNotion
 https://github.com/mttaggart/quasar
+https://github.com/mulwareX/CVE-2025-6218-POC
 https://github.com/murataydemir/CVE-2021-27905
 https://github.com/mvelazc0/PurpleSharp
 https://github.com/MythicAgents/typhon/
@@ -1810,6 +1815,7 @@ https://krebsonsecurity.com/2018/06/bad-men-at-work-please-dont-click/
 https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
 https://kubernetes.io/docs/concepts/workloads/controllers/job/
 https://kubernetes.io/docs/reference/access-authn-authz/rbac/
+https://kubernetes.io/docs/reference/config-api/apiserver-audit.v1/
 https://kubernetes.io/docs/reference/kubernetes-api/authorization-resources/cluster-role-v1/#ClusterRole
 https://kubernetes.io/docs/tasks/manage-kubernetes-objects/update-api-object-kubectl-patch
 https://lab52.io/blog/2344-2/
@@ -2105,6 +2111,7 @@ https://learn.microsoft.com/en-us/windows/msix/package/unsigned-package
 https://learn.microsoft.com/en-us/windows/package-manager/winget/source
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/appcontrol-deployment-guide
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/deploy-appcontrol-policies-with-script
+https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/design/microsoft-recommended-driver-block-rules
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/using-event-viewer-with-applocker
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/operations/event-tag-explanations
@@ -2343,6 +2350,7 @@ https://medium.com/@malwaredancer/lockergoga-input-arguments-ipc-communication-a
 https://medium.com/@markmotig/some-ways-to-dump-lsass-exe-c4a75fdc49bf
 https://medium.com/@mvelazco/hunting-for-samaccountname-spoofing-cve-2021-42287-and-domain-controller-impersonation-f704513c8a45
 https://medium.com/@networksecurity/rdp-hijacking-how-to-hijack-rds-and-remoteapp-sessions-transparently-to-move-through-an-da2a1e73a5f6
+https://medium.com/@ninnesoturan/detecting-ipv6-dns-takeover-a54a6a88be1f
 https://medium.com/@NullByteWht/hacking-macos-how-to-dump-1password-keepassx-lastpass-passwords-in-plaintext-723c5b1c311b
 https://medium.com/@olafhartong/cobalt-strike-remote-threads-detection-206372d11d0f
 https://medium.com/@olafhartong/sysmon-14-0-fileblockexecutable-13d7ba3dff3e
@@ -2555,6 +2563,7 @@ https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/116309e7121bc8b0e66e4166c06f
 https://pypi.org/project/scapy/
 https://ragged-lab.blogspot.com/2020/06/capturing-pcap-driver-installations.html#more
 https://ragged-lab.blogspot.com/2020/07/webshells-automating-reconnaissance.html
+https://rapid7.com/blog/post/2019/02/19/stack-based-buffer-overflow-attacks-what-you-need-to-know/
 https://rastamouse.me/ntlm-relaying-via-cobalt-strike/
 https://raw.githubusercontent.com/huntresslabs/evading-autoruns/master/shady.inf
 https://raw.githubusercontent.com/RiccardoAncarani/talks/master/F-Secure/unorthodox-lateral-movement.pdf
@@ -2815,6 +2824,7 @@ https://symantec-enterprise-blogs.security.com/threat-intelligence/harvester-new
 https://sysdig.com/blog/mitre-defense-evasion-falco
 https://systeminformer.sourceforge.io/
 https://t.co/ezOTGy1a1G
+https://taggart-tech.com/evildeno/
 https://taggart-tech.com/quasar-electron/
 https://taiwan.postsen.com/business/88601/Hamas-hackers-use-data-destruction-software-BiBi-which-consumes-a-lot-of-processor-resources-to-wipe-Windows-computer-data--iThome.html
 https://talesfrominfosec.blogspot.com/2017/12/killing-sysmon-silently.html
@@ -3573,6 +3583,7 @@ https://www.cybereason.com/blog/rundll32-the-infamous-proxy-for-executing-malici
 https://www.cybereason.com/blog/sliver-c2-leveraged-by-many-threat-actors
 https://www.cybereason.com/blog/threat-analysis-report-bumblebee-loader-the-high-road-to-enterprise-domain-control
 https://www.cybereason.com/blog/threat-analysis-report-lockbit-2.0-all-paths-lead-to-ransom
+https://www.cybertriage.com/artifact/terminalservices_remoteconnectionmanager_log/
 https://www.cybrary.it/blog/0p3n/linux-commands-used-attackers/
 https://www.d7xtech.com/free-software/runx/
 https://www.darkoperator.com/blog/2018/10/5/operating-offensively-against-sysmon
@@ -3626,6 +3637,7 @@ https://www.elastic.co/security-labs/grimresource
 https://www.elastic.co/security-labs/Hunting-for-Suspicious-Windows-Libraries-for-Execution-and-Evasion
 https://www.elastic.co/security-labs/operation-bleeding-bear
 https://www.elastic.co/security-labs/stopping-vulnerable-driver-attacks
+https://www.electronjs.org/docs/latest/tutorial/native-code-and-electron
 https://www.elevenforum.com/t/video-guide-how-to-completely-disable-microsoft-defender-antivirus.14608/page-2
 https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
 https://www.epicturla.com/blog/sysinturla
@@ -3694,6 +3706,7 @@ https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screen
 https://www.huntress.com/blog/attacking-mssql-servers
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
+https://www.huntress.com/blog/gootloader-threat-detection-woff2-obfuscation
 https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response
 https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
 https://www.huntress.com/blog/the-unwanted-guest
@@ -3756,6 +3769,7 @@ https://www.kroll.com/en/insights/publications/cyber/new-m365-business-email-com
 https://www.lexjansen.com/sesug/1993/SESUG93035.pdf
 https://www.linkedin.com/feed/update/urn:li:activity:7047435754834198529/
 https://www.linkedin.com/feed/update/urn:li:activity:7282295814792605698/
+https://www.linkedin.com/posts/huntress-labs_when-a-sketchy-incident-hits-your-network-activity-7304940371078238208-Th_l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJTlRcB28IaUtg03HUU-IdliwzoAL1flGc
 https://www.linkedin.com/posts/kleiton-kurti_github-kleiton0x00redditc2-abusing-reddit-activity-7009939662462984192-5DbI/?originalSubdomain=al
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://www.linkedin.com/pulse/guntior-story-advanced-bootkit-doesnt-rely-windows-disk-baranov-wue8e/
@@ -3861,6 +3875,7 @@ https://www.mitiga.io/blog/mitiga-security-advisory-abusing-the-ssm-agent-as-a-r
 https://www.myantispyware.com/2020/12/14/how-to-uninstall-onelaunch-browser-removal-guide/
 https://www.n00py.io/2021/05/dumping-plaintext-rdp-credentials-from-svchost-exe/
 https://www.n00py.io/2022/03/manipulating-user-passwords-without-mimikatz/
+https://www.nccgroup.com/us/research-blog/lapsus-recent-techniques-tactics-and-procedures/
 https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/november/turla-png-dropper-is-back/
 https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/cold-steel/NCSC-MAR-Cold-Steel.pdf
 https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/devil-bait/NCSC-MAR-Devil-Bait.pdf
@@ -4043,7 +4058,9 @@ https://www.trendmicro.com/en_us/research/23/f/behind-the-scenes-unveiling-the-h
 https://www.trendmicro.com/en_us/research/23/h/an-overview-of-the-new-rhysida-ransomware.html
 https://www.trendmicro.com/en_us/research/24/b/threat-actor-groups-including-black-basta-are-exploiting-recent-.html
 https://www.trendmicro.com/en_us/research/24/c/cve-2024-21412--darkgate-operators-exploit-microsoft-windows-sma.html
+https://www.trendmicro.com/en_us/research/24/j/edrsilencer-disrupting-endpoint-security-solutions.html
 https://www.trendmicro.com/en_us/research/25/c/socgholishs-intrusion-techniques-facilitate-distribution-of-rans.html
+https://www.trendmicro.com/en_us/research/25/c/windows-shortcut-zero-day-exploit.html
 https://www.trendmicro.com/en_za/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
 https://www.trendmicro.com/pl_pl/research/20/i/the-evolution-of-malicious-shell-scripts.html
 https://www.trendmicro.com/vinfo/hk-en/security/news/cybercrime-and-digital-threats/malicious-spam-campaign-uses-iso-image-files-to-deliver-lokibot-and-nanocore
@@ -4087,6 +4104,7 @@ https://www.us-cert.gov/ncas/alerts/TA17-117A
 https://www.us-cert.gov/ncas/alerts/TA17-293A
 https://www.us-cert.gov/ncas/analysis-reports/AR18-312A
 https://www.varonis.com/blog/investigate-ntlm-brute-force
+https://www.vectra.ai/blog/undermining-microsoft-teams-security-by-mining-tokens
 https://www.vectra.ai/blogpost/undermining-microsoft-teams-security-by-mining-tokens
 https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/cyberabwehr/2024-02-19-joint-cyber-security-advisory-englisch.pdf?__blob=publicationFile&v=2
 https://www.virusradar.com/en/Win32_Kasidet.AD/description
